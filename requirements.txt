@@ -1,0 +1,7 @@
+manim>=0.18.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# System binaries (not pip — Manim shells out to these):
+#   ffmpeg on PATH
+#   latex / xelatex / dvisvgm from MiKTeX or TeX Live on PATH
